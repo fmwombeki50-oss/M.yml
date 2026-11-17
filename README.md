@@ -1,0 +1,2 @@
+# M.yml
+WiFi management
